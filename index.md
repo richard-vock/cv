@@ -25,19 +25,14 @@ Neural and classic real-time rendering techniques as well as large-scale geometr
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1992-1996`
+Herzog Grundschule Leverkusen
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1996-2005`
+Landrat-Lukas-Gymnasium Leverkusen
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2006-2022`
+University of Bonn
 
 ## Research Projects
 
@@ -45,6 +40,7 @@ __Trinity College, Cambridge__
 - [PROBADO](https://cg.cs.uni-bonn.de/project/probado) (as part-time student researcher) - Graph-SVM-based shape retrieval methods for architectural models.
 - [DURAARK](https://cg.cs.uni-bonn.de/project/duraark) (work package leader) - Analysis and enrichment of 3D point cloud data for long-term preservation requirements.
 - [Mapping on Demand](https://cg.cs.uni-bonn.de/project/mapping-on-demand) (work package leader) - Real-time processing of geometric data aquired by UAV LiDaR sensors.
+- [Steinbeis Research](https://www.steinbeis.de/de/verbund/suche-im-steinbeis-verbund/detail.html?tx_z7suprofiles_detail%5Bprofile%5D=751&cHash=c48c25cff1311dcc70446d460982a27b) - Research and Development of real-time neural rendering techniques for the automotive industry.
 - [NFDI4Culture](https://cg.cs.uni-bonn.de/project/nfdi4culture) (work package developer) - Web-based real-time mesh and pointcloud visualization development.
 
 ## Publications
@@ -57,19 +53,26 @@ Selected Works:
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`1999-2000`
+Mieterverein Leverkusen e.V. - General office tasks
 
-- Warden
-- Minted coins
+`2005-2006`
+Naturgut Ophoven, Leverkusen - Community service in PR, print and IT services
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015-2020`
+University of Bonn - Research staff
 
+`2020-2020`
+Steinbeis Research Center - Research staff
 
+`2021-2022`
+University of Bonn - Research staff
+
+`2022-now`
+Gixel - AI/ML Research and Development
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2022 -->
 
 
