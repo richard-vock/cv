@@ -6,7 +6,7 @@ title: Richard Vock's CV
 Researcher and Developer in the AI/ML and Computer Graphics fields.
 
 <div id="webaddress">
-<a href="richard-vock@gixel.de">richard-vock@gixel.de</a>
+<a href="mailto:richard-vock@gixel.de">richard-vock@gixel.de</a>
 </div>
 
 
