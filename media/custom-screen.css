@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: Exo2;
-    src: url("./media/Exo2-Regular.ttf") format('truetype');
+    src: url("../media/Exo2-Regular.ttf") format('truetype');
     font-weight: 400;
     font-style: normal;
 }
