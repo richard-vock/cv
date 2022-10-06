@@ -1,29 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Richard Vock's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Richard Vock
+Researcher and Developer in the AI/ML and Computer Graphics fields.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nrtn@posteo.net">nrtn@posteo.net</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Changing the way we meet at [Gixel](gixel.de).
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Novel-view synthesis, real-time rendering, point cloud processing.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Neural and classic real-time rendering techniques as well as large-scale geometry processing.
 
 ## Education
 
@@ -41,35 +39,21 @@ __Trinity College, Cambridge__
 - Fellow
 
 
+## Research Projects
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+- [MERCW](https://cg.cs.uni-bonn.de/project/mercw) (as part-time student researcher) - Real-time visualization of pollution and fish school movements.
+- [PROBADO](https://cg.cs.uni-bonn.de/project/probado) (as part-time student researcher) - Graph-SVM-based shape retrieval methods for architectural models.
+- [DURAARK](https://cg.cs.uni-bonn.de/project/duraark) (work package leader) - Analysis and enrichment of 3D point cloud data for long-term preservation requirements.
+- [Mapping on Demand](https://cg.cs.uni-bonn.de/project/mapping-on-demand) (work package leader) - Real-time processing of geometric data aquired by UAV LiDaR sensors.
+- [NFDI4Culture](https://cg.cs.uni-bonn.de/project/nfdi4culture) (work package developer) - Web-based real-time mesh and pointcloud visualization development.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+My full publication list can be seen at my [former research group's web presence](https://cg.cs.uni-bonn.de/person/dipl-inform-richard-vock).
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Selected Works:
+- *Fast template matching and pose estimation in 3D point clouds* in Computers & Graphics, pages 36-45, 2019
+- *Automatic reconstruction of fully volumetric 3D building models from oriented point clouds* (Co-Author) in ISPRS Journal of Photogrammetry and Remote Sensing, pages 251-262, 2019
 
 ## Occupation
 
